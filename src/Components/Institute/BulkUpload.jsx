@@ -263,7 +263,7 @@ const BulkUpload = () => {
             <button id="register-btn" onClick={issueMultipleCert}>Register Certificates</button>{" "}
             {txHash && (
               <a
-                href={`https://xdcscan.com/tx/${txHash}`}
+                href={`https://edu-chain-testnet.blockscout.com/tx/${txHash}`}
                 id="xdc-explorer"
                 target="_blank"
                 rel="noreferrer"

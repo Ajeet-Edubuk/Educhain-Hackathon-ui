@@ -90,7 +90,7 @@ const About = () => {
   return (
     <div className='about-container'>
     <div className='about-box'>
-    <h1>About Edubuk</h1>
+    <h1>About Eduprovince</h1>
     <p>Our Platform bridges the gap between education and employment by providing emerging tech courses, verifiable academic & professional credentials and intelligent job matching leveraging AI and Blockchain Tech.</p>
     <p><strong>Vision:</strong> One-Stop Platform for global academic & professional credentials verification</p>
     <p><strong>Mission:</strong> To provide a secure platform for global verification of academic and professional credentials, thereby eliminating fraud and empowering universities, employers, students and professionals globally.</p>
