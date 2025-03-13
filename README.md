@@ -1,2 +1,2 @@
-# Edubuk_XDC_Application_Official
+# Eduprovince_Application_Official
 
