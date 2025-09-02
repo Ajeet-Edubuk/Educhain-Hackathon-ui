@@ -17,6 +17,7 @@ const WalletInfo = ({showWalletInfo,setShowWalletInfo}) => {
     50:"XDC",
     97:"TBNB",
     56:"BNB",
+    41923:"EDU",
     974399131:"SFUEL",
   }
 
