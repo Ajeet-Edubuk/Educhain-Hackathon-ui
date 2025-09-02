@@ -97,7 +97,7 @@ const InsReg = () => {
             <button id="register-btn">Register Institute</button>{" "}
             {txHash && (
               <a
-                href={`https://edu-chain-testnet.blockscout.com/tx/${txHash}`}
+                href={`https://educhain.blockscout.com/tx/${txHash}`}
                 id="xdc-explorer"
                 target="_blank"
                 rel="noreferrer"
