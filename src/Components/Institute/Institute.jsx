@@ -70,7 +70,7 @@ const Institute = () => {
         </div>
         </>:
         <div className={`page ${openAddWitness ? 'slide-in-left' : 'slide-out-left'}`}>
-          {openAddWitness && <AddWitness />}
+          
         </div>
       }
       </div>      
